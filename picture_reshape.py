@@ -208,3 +208,5 @@ plt.ylabel('loss')
 plt.xlabel('epoch')
 plt.legend(['G_loss', 'D_loss'])
 plt.show()
+
+print("That's all folks!")
