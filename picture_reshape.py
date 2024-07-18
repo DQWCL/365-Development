@@ -210,4 +210,3 @@ plt.legend(['G_loss', 'D_loss'])
 plt.show()
 
 print("That's all folks!")
-print("Test 2.0")
