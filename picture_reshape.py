@@ -1,4 +1,5 @@
 from docx import Document
+
 def resize_images(docx_file, new_width, new_height):
     doc = Document(docx_file)
 
